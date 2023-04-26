@@ -33,7 +33,7 @@
 
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   header, .intro, nav ul {
     background-color: #345C00 !important;
   }
@@ -55,7 +55,7 @@
   iframe {
     background-color: #59316B !important;
   }
-}
+} */
 
 body {
 }
