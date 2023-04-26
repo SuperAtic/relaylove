@@ -3,6 +3,10 @@
 
 /* Add your custom styles in this file... */
 
+small {
+ color: #abb8c3 !important;
+}
+
 @media (prefers-color-scheme: light) {
   header, .intro, nav ul {
     background-color: #ffffff !important;
