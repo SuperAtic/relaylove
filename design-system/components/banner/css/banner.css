@@ -1,11 +1,11 @@
 @media (prefers-color-scheme: light) {
   .banner {
-    background-color: #92E7FF !important;
+    background-color: #CEFF8F !important;
 
   }
 
   .banner p, .banner a {
-    color: #59316B !important;
+    color: #345C00 !important;
   }
 
   .bannerBtn {
@@ -15,11 +15,11 @@
 
 @media (prefers-color-scheme: dark) {
   .banner {
-    background-color: #92E7FF;
+    background-color: #345C00;
   }
 
   .banner p, .banner a {
-    color: #59316B !important;
+    color: #CEFF8F !important;
   }
 
   .bannerBtn {

@@ -35,11 +35,11 @@
 
 @media (prefers-color-scheme: dark) {
   header, .intro, nav ul {
-    background-color: #CEFF8F !important;
+    background-color: #345C00 !important;
   }
 
   h2 {
-    color: #2aa967 !important;
+    color: #2AA967 !important;
   }
 
   .btn {
@@ -49,7 +49,7 @@
 
   .primaryBtn {
     background-color: #2aa967;
-    color: #59316B !important;
+    color: #345C00 !important;
   }
 
   iframe {
@@ -61,7 +61,7 @@ body {
 }
 
 p, a, h1 {
-  color: white !important;
+  color: #686C8B !important;
 }
 
 h2 {
